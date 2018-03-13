@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="ud-copyright">
+    <module2copyright>
+      <element module="All" copyright="ud-copyright" />
+    </module2copyright>
+  </settings>
+</component>
